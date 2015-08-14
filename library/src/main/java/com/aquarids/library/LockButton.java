@@ -81,8 +81,8 @@ public class LockButton extends RelativeLayout {
             Rect src = new Rect(0, 0, getWidth(), getHeight());
             Rect dst = new Rect(0, 0, getWidth(), getHeight());
             canvas.drawBitmap(cropCircle(makeCircle()), src, dst, null);
-            invalidate();
         }
+        invalidate();
     }
 
     protected void setDefaultProperties() {
