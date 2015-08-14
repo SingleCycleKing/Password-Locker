@@ -1,7 +1,7 @@
 # Password-Locker
 A sample password locker...
 
-![Screenshot]()
+![Screenshot](https://github.com/SingleCycleKing/Password-Locker/blob/master/Screenshot.png)
 
 ##使用方法
   1.将library导入，修改你的工程的gradle如下:
